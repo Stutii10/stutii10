@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello !!! 👋
 
-<!--
-**Stutii10/stutii10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Stuti Goyal. 
+I am pursuing Computer Science💻, at the University of South Florida🌴.
+I am a junior so I have survived more than half of the journey in this major🫡 and I aim to expand my skills further as their is no end to learning👩🏻‍💻.  
+ 
+## Skills & Interests
+- 💻 Technological: Python, C++, C, Java 
+- 🌐 Web Development: HTML, CSS, React  
+- 📊 Data Science & Machine Learning (Basic to Intermediate)  
+- 🔧 Tools: Linux, Git, VS Code, Hadoop 
 
-Here are some ideas to get you started:
+## Achievements
+- 🏅 Dean’s List for Fall 2022 and Fall 2023  
+- 🏆 Engineering Alumni Society Scholarship 2024  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Facts
+- 📔 I love books  
+- ☕ Coffee enthusiast (it’s survival at this point)  
+- 🏏 Cricket fan  
