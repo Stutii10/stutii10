@@ -1,20 +1,9 @@
 ## Hello !!! 👋
 
-My name is Stuti Goyal. 
-I am pursuing Computer Science💻, at the University of South Florida🌴.
-I am a Junior so I have survived more than half of the journey in this major🫡 and I aim to expand my skills further as their is no end to learning👩🏻‍💻.  
- 
-## Skills & Interests
-- 💻 Technological: Python, C++, C, Java 
-- 🌐 Web Development: HTML, CSS, React  
-- 📊 Data Science & Machine Learning (Basic to Intermediate)  
-- 🔧 Tools: Linux, Git, VS Code, Hadoop 
+Hi, I’m Stuti Goyal, a rising senior studying Computer Science 💻 at the University of South Florida 🌴. I’m passionate about building meaningful solutions through code and constantly expanding my skill set—because for me, learning never really stops 👩🏻‍💻.
 
-## Achievements
-- 🏅 Dean’s List for Fall 2022 and Fall 2023  
-- 🏆 Engineering Alumni Society Scholarship 2024  
+I’ve worked with languages like Python, C++, C, and Java, and have experience in web development using HTML, CSS, and React 🌐. I also explore data science and machine learning 📊 at a basic to intermediate level, and I’m comfortable with tools like Linux, Git, VS Code, and Hadoop 🔧.
 
-## Fun Facts
-- 📔 I love books  
-- ☕ Coffee enthusiast (it’s survival at this point)  
-- 🏏 Cricket fan  
+I’ve been recognized on the Dean’s List 🏅 for Fall 2022 and 2023, and was honored to receive the Engineering Alumni Society Scholarship 🏆 in 2024.
+
+Outside of tech, I’m a book lover 📚, a coffee enthusiast ☕ (it’s survival at this point), and a big fan of cricket 🏏.
