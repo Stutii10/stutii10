@@ -4,6 +4,4 @@ Hi, I’m Stuti Goyal, a rising senior studying Computer Science 💻 at the Uni
 
 I’ve worked with languages like Python, C++, C, and Java, and have experience in web development using HTML, CSS, and React 🌐. I also explore data science and machine learning 📊 at a basic to intermediate level, and I’m comfortable with tools like Linux, Git, VS Code, and Hadoop 🔧.
 
-I’ve been recognized on the Dean’s List 🏅 for Fall 2022 and 2023, and was honored to receive the Engineering Alumni Society Scholarship 🏆 in 2024.
-
 Outside of tech, I’m a book lover 📚, a coffee enthusiast ☕ (it’s survival at this point), and a big fan of cricket 🏏.
