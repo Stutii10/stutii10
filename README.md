@@ -1,4 +1,4 @@
-## Hi, I'm Stuti Goyal 👋
+## Stuti Goyal
 
 A rising senior studying **Computer Science** at the **University of South Florida**. I'm passionate about building meaningful solutions through code and constantly expanding my skill set — because learning never really stops.
 
