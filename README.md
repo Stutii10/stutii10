@@ -25,9 +25,13 @@ A rising senior studying **Computer Science** at the **University of South Flori
 
 **Languages:** Python · C++ · C · Java
 
+**AI:** Artificial Intelligence · Generative AI · Agentic AI · Prompt Engineering
+
 **Web Development:** HTML · CSS · React
 
 **Data & ML:** Data Science · Machine Learning · Hadoop
+
+
 
 **Tools:** Linux · Git · VS Code
 
