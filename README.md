@@ -1,6 +1,6 @@
 ## Stuti Goyal
 
-A rising senior studying **Computer Science** at the **University of South Florida**. I'm passionate about building meaningful solutions through code and constantly expanding my skill set — because learning never really stops.
+Senior studying **Computer Science** at the **University of South Florida** graduating in December 2026. I'm passionate about building meaningful solutions through code and constantly expanding my skill set — because learning never really stops.
 
 ---
 
@@ -39,9 +39,9 @@ A rising senior studying **Computer Science** at the **University of South Flori
 
 ### 🌱 Currently
 
-- Wrapping up my SWE internship at **Morgan Stanley**
 - Advancing research in AI-powered grading and social robotics
 - Deepening skills in machine learning and distributed systems
+- Preparing to grdaute and looking for Full-time opportunities 
 
 ---
 
